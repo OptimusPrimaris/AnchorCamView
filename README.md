@@ -1,2 +1,2 @@
 # AnchorCamView
-UHAnchormanagmentCapstoneProject
+AnchormanagmentCapstoneProject
